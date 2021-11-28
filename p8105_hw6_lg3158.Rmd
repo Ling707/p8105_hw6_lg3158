@@ -1,0 +1,11 @@
+---
+title: "p8105_hw6_lg3158"
+author: "Ling"
+date: "11/27/2021"
+output: github_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
